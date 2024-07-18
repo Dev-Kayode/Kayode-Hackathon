@@ -1,0 +1,48 @@
+.boy {
+  border-radius: 50%;
+  height: 20px;
+}
+
+.nav-item {
+  display: flex;
+}
+
+.list {
+  display: flex;
+  text-align: center;
+  margin: auto;
+  margin-right: 500px;
+  justify-content: center;
+}
+
+.navbar-brand {
+  margin-left: 50px;
+}
+
+.nav-link {
+  color: #08426b;
+  border-style: solid;
+}
+
+.arrow {
+  margin-top: 0.3em;
+  margin-right: 0.3em;
+}
+
+.Color {
+  background-color: #08426b;
+}
+
+.text {
+  color: #08426b;
+}
+
+.custom_ai_doc {
+  height: 70px;
+  width: 365px;
+}
+
+.custom_health {
+  height: 70px;
+  width: 180px;
+}
